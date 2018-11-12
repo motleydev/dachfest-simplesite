@@ -4,5 +4,5 @@ For an overview of how things work in `Next.js` please refer to the [Next.js doc
 
 ## How to start
 ```
-git clone https://github.com/GraphCMS/graphcms-examples.git && cd graphcms-examples/current/next-apollo-blog && yarn && yarn dev
+git clone https://github.com/motleydev/dachfest-simplesite.git && cd dachfest-simplesite && yarn && yarn dev
 ```
